@@ -1,0 +1,25 @@
+{
+    "name": "buckshotplusplus-vscode",
+    "displayName": "BuckshotPlusPlus-VSCode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "bpp",
+            "aliases": ["BuckshotPlusPlus", "bpp"],
+            "extensions": [".bpp"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "bpp",
+            "scopeName": "source.bpp",
+            "path": "./syntaxes/bpp.tmLanguage.json"
+        }]
+    }
+}
