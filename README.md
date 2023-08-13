@@ -30,5 +30,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
+* **[MoskalykA](https://github.com/MoskalykA)** - *Lead Developer* 
 * **[Vic92548](https://github.com/Vic92548)** - *Developer* 
-* **[MoskalykA](https://github.com/MoskalykA)** - *Developer* 
